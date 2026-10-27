@@ -1,0 +1,3 @@
+name: kubernetes-ts-guestbook-monitoring
+runtime: nodejs
+description: Pulumi TypeScript program extending Guestbook with Prometheus & Grafana monitoring
